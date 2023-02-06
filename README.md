@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hashimalkhabbaz
 - 👀 I’m interested in all type of programming 
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning web dev 
 - 💞️ I’m looking to collaborate on any java project
 - 📫 How to reach me ... https://www.linkedin.com/in/hashim-alkhabbaz-93103b141/
 
